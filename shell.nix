@@ -11,6 +11,7 @@
     azure-cli
     upbound
     teller
+    git
     crossplane-cli
     kubernetes-helm
   ];
